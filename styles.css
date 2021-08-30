@@ -1,0 +1,31 @@
+body { 
+    color: rgb(82, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+.black-border {
+    border: 5px solid black;
+    border-style: dotted;
+    width: 250px;
+    height: 140px;
+}
+
+#green-background {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 90px;
+    background: #1faaaf;
+    padding: 25px;
+    width: 300px;
+    height: 80px;
+    margin-left: 100px;
+}
+
+.button-home {
+    font: 20px bold white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://i.pinimg.com/originals/9d/70/8c/9d708c751faa3e32d7c8d674b94cbce5.jpg);
+    border-radius: 20px;
+    padding: 20px;
+    width: 220px;
+    height: 50px;
+}
